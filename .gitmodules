@@ -16,3 +16,6 @@
 [submodule "maskscoring_rcnn"]
 	path = maskscoring_rcnn
 	url = https://github.com/zjhuang22/maskscoring_rcnn.git
+[submodule "pseudo_lidar"]
+	path = pseudo_lidar
+	url = https://github.com/mileyan/pseudo_lidar.git
