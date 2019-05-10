@@ -7,3 +7,6 @@
 [submodule "Finding-Tiny-Faces-with-GAN"]
 	path = Finding-Tiny-Faces-with-GAN
 	url = https://github.com/EthanGuan/Finding-Tiny-Faces-with-GAN.git
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/pjreddie/darknet.git
