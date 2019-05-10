@@ -10,3 +10,6 @@
 [submodule "darknet"]
 	path = darknet
 	url = https://github.com/pjreddie/darknet.git
+[submodule "frustum-pointnets"]
+	path = frustum-pointnets
+	url = git@github.com:charlesq34/frustum-pointnets.git
