@@ -4,3 +4,6 @@
 [submodule "SRGAN"]
 	path = SRGAN
 	url = https://github.com/leftthomas/SRGAN.git
+[submodule "Finding-Tiny-Faces-with-GAN"]
+	path = Finding-Tiny-Faces-with-GAN
+	url = https://github.com/EthanGuan/Finding-Tiny-Faces-with-GAN.git
