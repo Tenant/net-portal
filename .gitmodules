@@ -13,3 +13,6 @@
 [submodule "frustum-pointnets"]
 	path = frustum-pointnets
 	url = git@github.com:charlesq34/frustum-pointnets.git
+[submodule "maskscoring_rcnn"]
+	path = maskscoring_rcnn
+	url = https://github.com/zjhuang22/maskscoring_rcnn.git
