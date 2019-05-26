@@ -31,3 +31,9 @@
 [submodule "template"]
 	path = template
 	url = git@github.com:Tenant/net-template.git
+[submodule "Stereo-RCNN"]
+	path = Stereo-RCNN
+	url = https://github.com/HKUST-Aerial-Robotics/Stereo-RCNN.git
+[submodule "PointRCNN"]
+	path = PointRCNN
+	url = https://github.com/sshaoshuai/PointRCNN.git
