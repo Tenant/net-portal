@@ -37,3 +37,9 @@
 [submodule "PointRCNN"]
 	path = PointRCNN
 	url = https://github.com/sshaoshuai/PointRCNN.git
+[submodule "SiamMask"]
+	path = SiamMask
+	url = https://github.com/foolwood/SiamMask.git
+[submodule "TrackR-CNN"]
+	path = TrackR-CNN
+	url = https://github.com/VisualComputingInstitute/TrackR-CNN.git
